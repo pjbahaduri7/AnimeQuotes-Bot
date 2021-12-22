@@ -9,6 +9,8 @@ python = "^3.8"
 discord = "^1.7.3"
 python-decouple = "^3.5"
 python-dotenv = "^0.19.2"
+replit = "^3.2.4"
+Js2Py = "^0.71"
 
 [tool.poetry.dev-dependencies]
 
